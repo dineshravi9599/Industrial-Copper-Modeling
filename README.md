@@ -10,7 +10,7 @@ This project focuses on developing machine learning models for the copper indust
 2. [About the Data](#about-the-data)
 3. [Approach](#approach)
 4. [Skills Acquired](#skills-acquired)
-5. [Packages Used](#Packages Used)
+5. [Packages Used](#Packages-used)
 
 ## Problem Statement
 
