@@ -10,7 +10,7 @@ This project focuses on developing machine learning models for the copper indust
 2. [About the Data](#about-the-data)
 3. [Approach](#approach)
 4. [Skills Acquired](#skills-acquired)
-5. [Project Evaluation Metrics](#project-evaluation-metrics)
+5. [Packages Used] (#Packages Used).
 
 ## Problem Statement
 
@@ -38,13 +38,16 @@ The dataset contains information about transactions in the copper industry, incl
 - Model optimization and evaluation.
 - Creating web applications using Streamlit.
 
-## Project Evaluation Metrics
+## Packages Used
 
-- Modular code development
-- Maintainability and portability
-- Proper README file maintenance
-- Follow coding standards (PEP 8)
-- Demo video creation and sharing on LinkedIn
+ - Pandas: Data manipulation and preprocessing.
+ - NumPy: Numerical operations and array handling.
+ - Matplotlib: Data visualization.
+ - Seaborn: Enhanced data visualization.
+ - Scikit-learn: Machine learning algorithms and model evaluation.
+ - Streamlit: Interactive web application development.
+
+
 
 **Note:** The project will be maintained on GitHub, keeping the repository public for transparency. 
 
