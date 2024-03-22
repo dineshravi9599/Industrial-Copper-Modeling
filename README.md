@@ -1,5 +1,3 @@
-**README.md**
-
 # Industrial Copper Modeling
 
 ## Overview
